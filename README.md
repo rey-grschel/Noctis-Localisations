@@ -16,7 +16,7 @@ Inside that file add:
         <string>Dark Mode: Off</string>
     </dict>
 
-Then translate the strings into the langauge. Then create a pull request with the files.
+Then translate the <strings> into the langauge. Then create a pull request with the files.
 
 <b>Possible Languages:</b>
 
