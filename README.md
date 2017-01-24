@@ -16,7 +16,7 @@ Inside that file add:
 
 Then translate the strings into the langauge. Then create a pull request with the files.
 
-Possible Languages:
+<b>Possible Languages:</b>
 
 English: en
 
