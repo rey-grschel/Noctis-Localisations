@@ -7,12 +7,12 @@ Example: en.lproj which is english. In the folder create a file called Localizab
 
 Inside that file add:
 
-<dict>
-    <key>DARK_MODE_ON</key>
-    <string>Dark Mode: On</string>
-    <key>DARK_MODE_OFF</key>
-    <string>Dark Mode: Off</string>
-</dict>
+    <dict>
+        <key>DARK_MODE_ON</key>
+        <string>Dark Mode: On</string>
+        <key>DARK_MODE_OFF</key>
+        <string>Dark Mode: Off</string>
+    </dict>
 
 Then translate the strings into the langauge. Then create a pull request with the files.
 
