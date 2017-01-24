@@ -95,8 +95,5 @@ Croatian	hr
 Catalan	ca	
 
 Romanian	ro
-
 Hebrew	he
-
 Arabic	ar
-
