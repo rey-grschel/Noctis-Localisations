@@ -1,1 +1,6 @@
-
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>Dark Mode: Bật</string>
+    <key>DARK_MODE_OFF</key>
+    <string>Dark Mode: Tắt</string>
+</dict>
