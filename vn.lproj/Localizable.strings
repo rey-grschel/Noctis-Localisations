@@ -1,6 +1,6 @@
 <dict>
     <key>DARK_MODE_ON</key>
-    <string>Dark Mode: Bật</string>
+    <string>Chế độ Tối: Bật</string>
     <key>DARK_MODE_OFF</key>
-    <string>Dark Mode: Tắt</string>
+    <string>Chế độ Tối: Tắt</string>
 </dict>
