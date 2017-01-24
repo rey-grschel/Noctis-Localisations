@@ -3,7 +3,7 @@ Translations for Noctis
 
 Create a new folder with the language code and then .lproj at the end.
 
-Example: en.lproj which is english. In the folder create a file called Localizable.strings
+    Example: en.lproj which is english. In the folder create a file called Localizable.strings
 
 Inside that file add:
 
