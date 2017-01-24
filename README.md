@@ -18,82 +18,84 @@ Then translate the strings into the langauge. Then create a pull request with th
 
 Possible Languages:
 
-English	en
+English: en
 
-English (British)	en-GB
+English (British):	en-GB
 
-English (Australian)	en-AU
+English (Australian):	en-AU
 
-English (Canadian)	en-CA
+English (Canadian):	en-CA
 
-English (Indian)	en-IN
+English (Indian):	en-IN
 
-French	fr
+French:	fr
 
-French (Canadian)	fr-CA
+French (Canadian):	fr-CA
 
-Spanish	es
+Spanish:	es
 
-Spanish (Mexico)	es-MX
+Spanish (Mexico):	es-MX
 
-Portuguese	pt
+Portuguese:	pt
 
-Portuguese (Brazil)	pt-BR
+Portuguese (Brazil):	pt-BR
 
-Italian	it
+Italian:	it
 
-German	de	
+German:	de	
 
-Chinese (Simplified)	zh-Hans
+Chinese (Simplified):	zh-Hans
 
-Chinese (Traditional)	zh-Hant
+Chinese (Traditional):	zh-Hant
 
-Chinese (Hong Kong)	zh-HK
+Chinese (Hong Kong):	zh-HK
 
-Dutch	nl
+Dutch:	nl
 
-Japanese	ja
+Japanese:	ja
 
-Korean	ko
+Korean:	ko
 
-Vietnamese	vi
+Vietnamese:	vi
 
-Russian	ru
+Russian:	ru
 
-Swedish	sv
+Swedish:	sv
 
-Danish	da
+Danish:	da
 
-Finnish	fi
+Finnish:	fi
 
-Norwegian (Bokmal)	nb
+Norwegian (Bokmal):	nb
 
-Turkish	tr
+Turkish:	tr
 
-Greek	el
+Greek:	el
 
-Indonesian	id
+Indonesian:	id
 
-Malay	ms
+Malay:	ms
 
-Thai	th
+Thai:	th
 
-Hindi	hi
+Hindi:	hi
 
-Hungarian	hu
+Hungarian:	hu
 
-Polish	pl
+Polish:	pl
 
-Czech	cs
+Czech:	cs
 
-Slovak	sk
+Slovak:	sk
 
-Ukrainian	uk
+Ukrainian:	uk
 
-Croatian	hr
+Croatian:	hr
 
-Catalan	ca	
+Catalan:	ca	
 
-Romanian	ro
-Hebrew	he
-Arabic	ar
+Romanian:	ro
+
+Hebrew:	he
+
+Arabic:	ar
