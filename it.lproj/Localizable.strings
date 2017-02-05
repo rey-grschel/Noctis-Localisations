@@ -1,6 +1,6 @@
 <dict>
     <key>DARK_MODE_ON</key>
-    <string>Modalità notte: Ativo</string>
+    <string>Modalità notte: Attiva</string>
     <key>DARK_MODE_OFF</key>
-    <string>Modalità notte: Inativo</string>
+    <string>Modalità notte: Inattva</string>
 </dict>
