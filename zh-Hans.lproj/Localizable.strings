@@ -1,6 +1,6 @@
 <dict>
     <key>DARK_MODE_ON</key>
-    <string>深色模式: 开启</string>
+    <string>黑暗模式: 开启</string>
     <key>DARK_MODE_OFF</key>
-    <string>深色模式: 关闭</string>
+    <string>黑暗模式: 关闭</string>
 </dict>
